@@ -1,4 +1,4 @@
-name: Securify Audit
+name: Securify Audit 
 
 on:
   push:
